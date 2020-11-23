@@ -59,7 +59,7 @@ ___CSS_LOADER_EXPORT___.push([module.i, "\n/* You can add global styles to this 
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! D:\Lab-MK\Git\tax-calculation\src\styles.scss */"+EN/");
+module.exports = __webpack_require__(/*! C:\Users\USER\Documents\Lab\Git\tax-calculation\src\styles.scss */"+EN/");
 
 
 /***/ }),
